@@ -23,17 +23,6 @@ These datasets were cleaned and joined to create a **unified reporting layer**.
 ---
 
 ## ⚙️ Methodology – 3-Step Process  
-
-
-[ Excel – Data Preparation ]  
-                │  
-                ▼  
-[ SQL – Business Insights ]  
-                │  
-                ▼  
-[ Tableau – Visualization ]  
-
-
 ### 1️⃣ Excel – Data Preparation  
 - Imported raw data from multiple sheets  
 - Cleaned & standardized data (columns, formats, missing values)  

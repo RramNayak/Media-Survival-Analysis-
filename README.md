@@ -26,11 +26,11 @@ These datasets were cleaned and joined to create a **unified reporting layer**.
 
 
 [ Excel – Data Preparation ]  
-        │  
-        ▼  
+                │  
+                ▼  
 [ SQL – Business Insights ]  
-        │  
-        ▼  
+                │  
+                ▼  
 [ Tableau – Visualization ]  
 
 
